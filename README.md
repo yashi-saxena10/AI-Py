@@ -1,5 +1,5 @@
 # ML-AI-NLP-Python
-Decision Tree classifition and K Means Clustering performed on Iris Dataset
+Decision Tree Classification and K Means Clustering performed on Iris Dataset
 
 
 
